@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Kadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikhkadam&show_icons=true&include_all_commits=true&theme=material-palenight)
+![Kadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikhkadam&show_icons=true&theme=dark&hide_rank=true&hide_title=true&theme=vue&hide_border=true&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhkadam&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhkadam&show_icons=true&theme=dark&hide_rank=true&hide_title=true&theme=vue&hide_border=true&layout=compact)
 
 <!--
 **ParikhKadam/parikhkadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
