@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Kadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikhkadam&show_icons=true&theme=dark)
+![Kadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=parikhkadam&show_icons=true&include_all_commits=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhkadam&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhkadam&show_icons=true&include_all_commits=true&theme=material-palenight&layout=compact)
 
 
 <!--
