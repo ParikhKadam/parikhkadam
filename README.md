@@ -8,6 +8,7 @@ Machine Learning Engineer with 2.5+ years of professional experience in building
 - 🔭 I’m currently working at [F(x) Data Labs Pvt Ltd](https://htree.plus/) as Software Engineer
 - 🌱 I’m currently gathering knowledge & experience on Data Science  & Machine Learning 
 - 👯 I’m looking to collaborate and discuss on Data Science, Machine Learning & Web Applciations Security
+- ⚡ Think more, code less..
 - 💬 Ask me anything!
 
 
