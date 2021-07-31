@@ -21,4 +21,4 @@ Machine Learning Engineer with 2.5+ years of professional experience in building
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parikhkadam&show_icons=true&theme=dark&hide_rank=true&hide_title=true&theme=vue&hide_border=true&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parikhkadam&theme=github)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=parikhkadam&theme=github) -->
