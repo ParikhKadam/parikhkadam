@@ -2,7 +2,7 @@
 
 ### Data Science & Machine Learning | Python Nerd | Cyber Security Enthusiast 
 
-Machine Learning Engineer with 2.5+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Majority of my work includes leading projects and developing the core ML modules. But I am also working on exceptional projects that require the power of Machine Learning along with Full Stack in my free time.
+Machine Learning Engineer with 2.5+ years of professional experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Majority of my work includes leading projects and developing the core ML modules after conducting the needed research, expirements and analysis. I am also working on exceptional projects that require the power of Machine Learning along with Full Stack in my free time.
 <br>
 
 - 🔭 I’m currently working at [F(x) Data Labs Pvt Ltd](https://htree.plus/) as Software Engineer
